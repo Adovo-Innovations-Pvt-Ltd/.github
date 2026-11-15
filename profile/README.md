@@ -15,4 +15,4 @@ Our work covers Adobe Experience Manager (AEM), Adobe Analytics, data integratio
 - [Case studies](https://www.adovo.ai/case-studies) explain the problem, delivery role, and outcome behind selected Adobe and data work.
 - [Insights](https://www.adovo.ai/insights) cover implementation decisions in AEM, Adobe Analytics, enterprise data, and applied AI.
 
-Visit [adovo.ai](https://www.adovo.ai/) or [contact the team](https://www.adovo.ai/contact) to discuss a specific challenge.
+Visit [adovo.ai](https://www.adovo.ai/) or [contact the team](https://www.adovo.ai/lets-talk) to discuss a specific challenge.
