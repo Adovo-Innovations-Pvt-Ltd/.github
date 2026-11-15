@@ -15,9 +15,10 @@ Our work covers Adobe Experience Manager (AEM), Adobe Analytics, data integratio
 - [Data quality checks for marketing-to-CRM reporting](https://github.com/Adovo-Innovations-Pvt-Ltd/adovo-data-quality-starter): a runnable contract and checks for duplicate IDs, missing relationships, invalid dates, and opportunity amounts.
 - [AEM page-view data layer to Web SDK](https://github.com/Adovo-Innovations-Pvt-Ltd/adovo-aem-data-layer-reference): a tested example of mapping a page-view event to an XDM payload.
 
-## Work and writing
+## Case studies and playbooks
 
-- [Case studies](https://www.adovo.ai/case-studies) explain the problem, delivery role, and outcome behind selected Adobe and data work.
-- [Insights](https://www.adovo.ai/insights) cover implementation decisions in AEM, Adobe Analytics, enterprise data, and applied AI.
+- [Case study index](https://github.com/Adovo-Innovations-Pvt-Ltd/.github/blob/main/case-studies/README.md) connects published work to its technical companion. The [full cases](https://www.adovo.ai/case-studies) on adovo.ai explain delivery roles and outcomes.
+- [Marketing-to-CRM reconciliation playbook](https://github.com/Adovo-Innovations-Pvt-Ltd/adovo-data-quality-starter/blob/main/docs/marketing-to-crm-reconciliation-playbook.md) covers data contracts, identity, and reporting checks.
+- [AEM to Adobe Analytics measurement playbook](https://github.com/Adovo-Innovations-Pvt-Ltd/adovo-aem-data-layer-reference/blob/main/docs/aem-web-sdk-measurement-playbook.md) covers data layer events, Web SDK mapping, consent, and QA.
 
-Visit [adovo.ai](https://www.adovo.ai/) or [contact the team](https://www.adovo.ai/lets-talk) to discuss a specific challenge.
+Read [Adovo's insights](https://www.adovo.ai/insights), visit [adovo.ai](https://www.adovo.ai/), or [contact the team](https://www.adovo.ai/lets-talk) about a specific challenge.
