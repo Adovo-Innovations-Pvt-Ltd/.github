@@ -10,6 +10,10 @@ Our work covers Adobe Experience Manager (AEM), Adobe Analytics, data integratio
 - [Data and measurement](https://www.adovo.ai/services/data): data flows, shared definitions, and reporting that teams can act on.
 - [Applied AI](https://www.adovo.ai/services/ai): bounded use cases built around clear data, permissions, and evaluation.
 
+## Public example
+
+[Data quality checks for marketing-to-CRM reporting](https://github.com/Adovo-Innovations-Pvt-Ltd/adovo-data-quality-starter) is a runnable example with a data contract, synthetic records, and checks for duplicate IDs, missing relationships, invalid dates, and opportunity amounts.
+
 ## Work and writing
 
 - [Case studies](https://www.adovo.ai/case-studies) explain the problem, delivery role, and outcome behind selected Adobe and data work.
